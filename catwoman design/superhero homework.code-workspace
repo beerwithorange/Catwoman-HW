@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../18-1-activity"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "superhero homework"
+  }
+}
